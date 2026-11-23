@@ -1,5 +1,7 @@
 # web — EntradasYa
 
+[![CI](https://github.com/jdguior06/entradasya-web/actions/workflows/ci.yml/badge.svg?branch=development)](https://github.com/jdguior06/entradasya-web/actions/workflows/ci.yml)
+
 Interfaz única para los tres tipos de usuario. React 19 + Vite + TypeScript + Tailwind CSS 4 + React Router.
 
 - Puerto: **5173** (HTTPS en desarrollo) · Datos que guarda: ninguno
